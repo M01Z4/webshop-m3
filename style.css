@@ -1,0 +1,38 @@
+header {
+    background-color: rgb(179, 19, 51);
+    display: block;
+    block-size: 390px;
+    text-align: center;
+}
+
+main {
+    display: block;
+    background-color: rgb(231, 244, 255);
+    text-align: left;
+    block-size: 700px;
+}
+
+footer {
+    background-color: rgb(83, 81, 105);
+}
+
+#Img {
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#Img:hover {opacity: 0.7;}
+
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+
+button {
+  background-color: rgb(81, 82, 115);
+  color: rgb(255, 255, 255);
+  width: 90px;
+  border-radius: 30px;
+}
